@@ -23,7 +23,7 @@ const HeaderWrapper = styled.div`
   left: 0;
   border-bottom: 2px solid #fb9ba4;
   background-color: #ffffffe9;
-  z-index: 999999;
+  z-index: 999;
 `;
 const Language =styled.span`
   background-color:white;
