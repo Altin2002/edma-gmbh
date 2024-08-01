@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 //domain
-https://ephemeral-zabaione-eb7bb8.netlify.app/
+https://edma-gmbh-ar-al.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
