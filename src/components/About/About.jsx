@@ -75,6 +75,10 @@ const DynamicNumberItem = ({ number, title }) => {
   return (
     <Item>
       <h3>{number}</h3>
+
+
+
+      jhgftdrytfguhjkl;mhgy
       <p>{title}</p>
     </Item>
   );
